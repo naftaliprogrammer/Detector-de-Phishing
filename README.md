@@ -18,7 +18,8 @@ O script analisará a mensagem e informará se o e-mail é suspeito de phishing 
 Tecnologias utilizadas:
 
 Python 3.x
-Biblioteca time para simulação de pausa no processo
+Biblioteca time para simulação de pausa no processo.
+
 Este script pode ser útil para detectar e alertar sobre sms fraudulentos e prevenir ataques de phishing.
 
 ### Executando o código / Funcionando
